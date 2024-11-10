@@ -1,0 +1,22 @@
+.background-container {
+  display: flex;
+  background-color: #f1f5f8;
+  justify-content: center;
+  align-items: center;
+}
+.white-background {
+  background-color: white;
+  width: 80vw;
+  border-radius: 1rem;
+  padding: 3rem;
+}
+.heading {
+  color: #cb8805;
+  text-align: center;
+}
+.list-none {
+  list-style: none;
+}
+.list-none {
+  padding: 2rem;
+}

@@ -1,0 +1,20 @@
+.question-row {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+.click-icon {
+  background-size: cover;
+  align-self: center;
+  outline: none;
+  border: none;
+  background-color: transparent;
+  font-size: large;
+}
+.faqItem {
+  padding: 2rem;
+  border-radius: 2rem;
+  margin: 2rem;
+  box-shadow: 0px 4px 16px 0px #bfbfbf;
+}
